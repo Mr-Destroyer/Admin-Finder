@@ -31,9 +31,9 @@ Designed for **penetration testers**, **bug bounty hunters**, and **cybersecurit
 ---
 
 ## 🖥️ Screenshot
+![Banner](Screenshot_20260130_131620.png)
+![Found](Screenshot_20260130_131700.png)
 
-
-'''bash
 
 
 
